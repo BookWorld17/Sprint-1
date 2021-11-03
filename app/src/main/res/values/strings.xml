@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">bookApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Explorer Riyadh</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="home">Home</string>
+    <string name="add_item">Add Book</string>
+    <string name="list_items">List of books</string>
+    <string name="my_orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Sing out</string>
+    <string name="waiting">waiting</string>
+    <string name="delete_success">Book deleted successfully</string>
+    <string name="error">Error</string>
+    <string name="couldnt_delete">Couldn\'t delete the book</string>
+</resources>
